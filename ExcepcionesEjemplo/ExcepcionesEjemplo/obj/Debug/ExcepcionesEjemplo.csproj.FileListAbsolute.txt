@@ -1,0 +1,10 @@
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\bin\Debug\ExcepcionesEjemplo.exe.config
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\bin\Debug\ExcepcionesEjemplo.exe
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\bin\Debug\ExcepcionesEjemplo.pdb
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.Form1.resources
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.Properties.Resources.resources
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.csproj.GenerateResource.cache
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.exe
+C:\Users\wilson.pico\source\repos\ExcepcionesEjemplo\ExcepcionesEjemplo\obj\Debug\ExcepcionesEjemplo.pdb
