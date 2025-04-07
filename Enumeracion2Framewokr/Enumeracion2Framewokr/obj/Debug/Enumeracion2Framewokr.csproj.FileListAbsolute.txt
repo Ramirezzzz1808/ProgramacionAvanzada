@@ -1,0 +1,10 @@
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\bin\Debug\Enumeracion2Framewokr.exe.config
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\bin\Debug\Enumeracion2Framewokr.exe
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\bin\Debug\Enumeracion2Framewokr.pdb
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\obj\Debug\Enumeracion2Framewokr.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\obj\Debug\Enumeracion2Framewokr.Form1.resources
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\obj\Debug\Enumeracion2Framewokr.Properties.Resources.resources
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\obj\Debug\Enumeracion2Framewokr.csproj.GenerateResource.cache
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\obj\Debug\Enumeracion2Framewokr.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\obj\Debug\Enumeracion2Framewokr.exe
+C:\Users\wilson.pico\source\repos\Enumeracion2Framewokr\Enumeracion2Framewokr\obj\Debug\Enumeracion2Framewokr.pdb
