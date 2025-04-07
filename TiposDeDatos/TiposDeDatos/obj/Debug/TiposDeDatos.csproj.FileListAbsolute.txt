@@ -1,0 +1,7 @@
+C:\Users\wilson.pico\source\repos\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.exe.config
+C:\Users\wilson.pico\source\repos\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.exe
+C:\Users\wilson.pico\source\repos\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.pdb
+C:\Users\wilson.pico\source\repos\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.exe
+C:\Users\wilson.pico\source\repos\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.pdb
