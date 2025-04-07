@@ -1,0 +1,10 @@
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\bin\Debug\MetodosYListas.exe.config
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\bin\Debug\MetodosYListas.exe
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\bin\Debug\MetodosYListas.pdb
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\obj\Debug\MetodosYListas.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\obj\Debug\MetodosYListas.Form1.resources
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\obj\Debug\MetodosYListas.Properties.Resources.resources
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\obj\Debug\MetodosYListas.csproj.GenerateResource.cache
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\obj\Debug\MetodosYListas.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\obj\Debug\MetodosYListas.exe
+C:\Users\wilson.pico\source\repos\MetodosYListas\MetodosYListas\obj\Debug\MetodosYListas.pdb
