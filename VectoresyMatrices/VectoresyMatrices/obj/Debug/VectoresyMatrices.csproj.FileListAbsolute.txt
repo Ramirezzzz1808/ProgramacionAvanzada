@@ -1,0 +1,9 @@
+C:\Users\wilson.pico\source\repos\VectoresyMatrices\VectoresyMatrices\obj\Debug\VectoresyMatrices.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\VectoresyMatrices\VectoresyMatrices\obj\Debug\VectoresyMatrices.Properties.Resources.resources
+C:\Users\wilson.pico\source\repos\VectoresyMatrices\VectoresyMatrices\obj\Debug\VectoresyMatrices.csproj.GenerateResource.cache
+C:\Users\wilson.pico\source\repos\VectoresyMatrices\VectoresyMatrices\obj\Debug\VectoresyMatrices.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\VectoresyMatrices\VectoresyMatrices\bin\Debug\VectoresyMatrices.exe.config
+C:\Users\wilson.pico\source\repos\VectoresyMatrices\VectoresyMatrices\bin\Debug\VectoresyMatrices.exe
+C:\Users\wilson.pico\source\repos\VectoresyMatrices\VectoresyMatrices\bin\Debug\VectoresyMatrices.pdb
+C:\Users\wilson.pico\source\repos\VectoresyMatrices\VectoresyMatrices\obj\Debug\VectoresyMatrices.exe
+C:\Users\wilson.pico\source\repos\VectoresyMatrices\VectoresyMatrices\obj\Debug\VectoresyMatrices.pdb
