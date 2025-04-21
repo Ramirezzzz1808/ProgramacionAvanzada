@@ -1,0 +1,6 @@
+C:\Users\wilson.pico\source\repos\EjemploBiblioteca\EjemploBiblioteca\bin\Debug\EjemploBiblioteca.dll
+C:\Users\wilson.pico\source\repos\EjemploBiblioteca\EjemploBiblioteca\bin\Debug\EjemploBiblioteca.pdb
+C:\Users\wilson.pico\source\repos\EjemploBiblioteca\EjemploBiblioteca\obj\Debug\EjemploBiblioteca.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\EjemploBiblioteca\EjemploBiblioteca\obj\Debug\EjemploBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\EjemploBiblioteca\EjemploBiblioteca\obj\Debug\EjemploBiblioteca.dll
+C:\Users\wilson.pico\source\repos\EjemploBiblioteca\EjemploBiblioteca\obj\Debug\EjemploBiblioteca.pdb
