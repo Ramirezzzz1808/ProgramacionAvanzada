@@ -1,0 +1,14 @@
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\bin\Debug\net8.0\Singleton.ej.exe
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\bin\Debug\net8.0\Singleton.ej.deps.json
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\bin\Debug\net8.0\Singleton.ej.runtimeconfig.json
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\bin\Debug\net8.0\Singleton.ej.dll
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\bin\Debug\net8.0\Singleton.ej.pdb
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\obj\Debug\net8.0\Singleton.ej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\obj\Debug\net8.0\Singleton.ej.AssemblyInfoInputs.cache
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\obj\Debug\net8.0\Singleton.ej.AssemblyInfo.cs
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\obj\Debug\net8.0\Singleton.ej.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\obj\Debug\net8.0\Singleton.ej.dll
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\obj\Debug\net8.0\refint\Singleton.ej.dll
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\obj\Debug\net8.0\Singleton.ej.pdb
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\obj\Debug\net8.0\Singleton.ej.genruntimeconfig.cache
+C:\Users\wilson.pico\source\repos\Singleton.ej\Singleton.ej\obj\Debug\net8.0\ref\Singleton.ej.dll
