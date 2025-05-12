@@ -1,0 +1,14 @@
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\bin\Debug\net8.0\AppPO.ej.exe
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\bin\Debug\net8.0\AppPO.ej.deps.json
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\bin\Debug\net8.0\AppPO.ej.runtimeconfig.json
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\bin\Debug\net8.0\AppPO.ej.dll
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\bin\Debug\net8.0\AppPO.ej.pdb
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\obj\Debug\net8.0\AppPO.ej.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\obj\Debug\net8.0\AppPO.ej.AssemblyInfoInputs.cache
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\obj\Debug\net8.0\AppPO.ej.AssemblyInfo.cs
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\obj\Debug\net8.0\AppPO.ej.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\obj\Debug\net8.0\AppPO.ej.dll
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\obj\Debug\net8.0\refint\AppPO.ej.dll
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\obj\Debug\net8.0\AppPO.ej.pdb
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\obj\Debug\net8.0\AppPO.ej.genruntimeconfig.cache
+C:\Users\wilson.pico\source\repos\AppPO.ej\AppPO.ej\obj\Debug\net8.0\ref\AppPO.ej.dll
