@@ -1,0 +1,14 @@
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\bin\Debug\net8.0\MVC.EJEMPLO.exe
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\bin\Debug\net8.0\MVC.EJEMPLO.deps.json
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\bin\Debug\net8.0\MVC.EJEMPLO.runtimeconfig.json
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\bin\Debug\net8.0\MVC.EJEMPLO.dll
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\bin\Debug\net8.0\MVC.EJEMPLO.pdb
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\obj\Debug\net8.0\MVC.EJEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\obj\Debug\net8.0\MVC.EJEMPLO.AssemblyInfoInputs.cache
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\obj\Debug\net8.0\MVC.EJEMPLO.AssemblyInfo.cs
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\obj\Debug\net8.0\MVC.EJEMPLO.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\obj\Debug\net8.0\MVC.EJEMPLO.dll
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\obj\Debug\net8.0\refint\MVC.EJEMPLO.dll
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\obj\Debug\net8.0\MVC.EJEMPLO.pdb
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\obj\Debug\net8.0\MVC.EJEMPLO.genruntimeconfig.cache
+C:\Users\wilson.pico\source\repos\MVC.EJEMPLO\MVC.EJEMPLO\obj\Debug\net8.0\ref\MVC.EJEMPLO.dll
