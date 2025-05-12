@@ -1,0 +1,10 @@
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\bin\Debug\Ej.Async.exe.config
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\bin\Debug\Ej.Async.exe
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\bin\Debug\Ej.Async.pdb
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\obj\Debug\Ej.Async.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\obj\Debug\Ej.Async.Form1.resources
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\obj\Debug\Ej.Async.Properties.Resources.resources
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\obj\Debug\Ej.Async.csproj.GenerateResource.cache
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\obj\Debug\Ej.Async.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\obj\Debug\Ej.Async.exe
+C:\Users\wilson.pico\source\repos\Async.Ej\Ej.Async\obj\Debug\Ej.Async.pdb
