@@ -1,0 +1,22 @@
+Capas de la Arquitectura
+1. Capa de Presentación (UI - Interfaz Gráfica)
+Responsable de la interacción con el usuario.
+
+Ejemplos: formularios de Windows Forms, WPF o interfaces gráficas en C#.
+
+Muestra productos, permite agregar, editar y eliminar.
+
+2. Capa de Lógica de Negocio (Business Logic Layer - BLL)
+Contiene la lógica de validaciones y procesos del sistema.
+
+Define cómo deben funcionar las reglas del inventario (ej. no permitir stock negativo).
+
+3. Capa de Acceso a Datos (Data Access Layer - DAL)
+Gestiona la conexión con la base de datos.
+
+Ejecuta consultas SQL, inserciones, actualizaciones y eliminaciones.
+
+Puede usar tecnologías como ADO.NET, Entity Framework, Dapper, etc.
+
+4. Base de Datos
+Almacena los datos de productos: ID, nombre, cantidad, precio, proveedor, etc.
