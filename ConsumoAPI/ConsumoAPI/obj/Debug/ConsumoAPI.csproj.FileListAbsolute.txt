@@ -1,0 +1,13 @@
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\bin\Debug\ConsumoAPI.exe.config
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\bin\Debug\ConsumoAPI.exe
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\bin\Debug\ConsumoAPI.pdb
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.Properties.Resources.resources
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.csproj.GenerateResource.cache
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.csproj.Up2Date
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.exe
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.pdb
+C:\Users\wilson.pico\source\repos\ConsumoAPI\ConsumoAPI\obj\Debug\ConsumoAPI.Presentacion.Form1.resources
