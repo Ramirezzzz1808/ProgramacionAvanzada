@@ -1,0 +1,8 @@
+C:\Users\wilson.pico\source\repos\ContactsApp\Data\obj\Debug\ContactsApp.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\ContactsApp\Data\obj\Debug\Data.UI.MainForm.resources
+C:\Users\wilson.pico\source\repos\ContactsApp\Data\obj\Debug\ContactsApp.csproj.GenerateResource.cache
+C:\Users\wilson.pico\source\repos\ContactsApp\Data\obj\Debug\ContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\ContactsApp\Data\bin\Debug\Data.exe
+C:\Users\wilson.pico\source\repos\ContactsApp\Data\bin\Debug\Data.pdb
+C:\Users\wilson.pico\source\repos\ContactsApp\Data\obj\Debug\Data.exe
+C:\Users\wilson.pico\source\repos\ContactsApp\Data\obj\Debug\Data.pdb
