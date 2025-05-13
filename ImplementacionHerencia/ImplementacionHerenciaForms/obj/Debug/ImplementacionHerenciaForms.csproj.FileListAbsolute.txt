@@ -1,0 +1,10 @@
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\obj\Debug\ImplementacionHerenciaForms.csproj.AssemblyReference.cache
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\obj\Debug\ImplementacionHerenciaForms.Properties.Resources.resources
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\obj\Debug\ImplementacionHerenciaForms.csproj.GenerateResource.cache
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\obj\Debug\ImplementacionHerenciaForms.csproj.CoreCompileInputs.cache
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\obj\Debug\ImplementacionHerenciaForms.Form1.resources
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\bin\Debug\ImplementacionHerenciaForms.exe.config
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\bin\Debug\ImplementacionHerenciaForms.exe
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\bin\Debug\ImplementacionHerenciaForms.pdb
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\obj\Debug\ImplementacionHerenciaForms.exe
+C:\Users\wilson.pico\source\repos\ImplementacionHerencia\ImplementacionHerenciaForms\obj\Debug\ImplementacionHerenciaForms.pdb
